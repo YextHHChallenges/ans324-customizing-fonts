@@ -1,0 +1,38 @@
+{
+  "$id": "107980000",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "FAQs on Answers - Jobs",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "activeOnAnswers",
+        "searchBool": "TRUE"
+      },
+      {
+        "fieldId": "yext/keywords",
+        "text": {
+          "search": [
+            "career"
+          ],
+          "type": "CONTAINS"
+        }
+      }
+    ],
+    "entityType": [
+      {
+        "entityTypeId": [
+          "yext/faq"
+        ],
+        "type": "IS"
+      }
+    ],
+    "fieldsWithData": [
+      {
+        "fieldId": [
+          "yext/answer"
+        ],
+        "type": "ANY"
+      }
+    ]
+  }
+}
