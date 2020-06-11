@@ -4,7 +4,7 @@
   "domain": "answers-domain",
   "features": [],
   "publishingConfig": {
-    "pinnedProductionBranchName": "refs/heads/master",
+    "pinnedProductionBranchName": "refs/tags/master",
     "pinnedStagingBranchName": "refs/heads/master",
     "stagingCredentials": {
       "password": "test",
@@ -13,7 +13,7 @@
   },
   "repoConfig": {
     "targetRepoName": "answers-hitchhiker-training.turtleheadtacos-${{businessId}}.com",
-    "templateRepo": "github.com/big-ol-sandbox/answers-hitchhiker-training.turtleheadtacos-ANS324.com"
+    "templateRepo": "github.com/big-ol-sandbox/answers-hitchhiker-training.turtleheadtacos-ans324.com"
   },
   "siteName": "Turtlehead Tacos Answers"
 }

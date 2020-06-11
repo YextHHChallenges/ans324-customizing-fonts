@@ -9,7 +9,6 @@
       "entityTypes": [
         "ce_communityStory"
       ],
-      "keywords": [],
       "name": "Community Stories",
       "searchableFields": {
         "builtin.entityType": {
@@ -33,9 +32,8 @@
       "entityTypes": [
         "event"
       ],
-      "keywords": [],
       "name": "Events",
-      "savedSearchId": "108120374",
+      "savedSearchId": "125019244",
       "searchableFields": {
         "builtin.entityType": {
           "nlpFilter": true
@@ -63,9 +61,8 @@
       "entityTypes": [
         "faq"
       ],
-      "keywords": [],
       "name": "FAQs",
-      "savedSearchId": "100108258",
+      "savedSearchId": "121202151",
       "searchableFields": {
         "builtin.entityType": {
           "nlpFilter": true
@@ -93,7 +90,6 @@
       "entityTypes": [
         "job"
       ],
-      "keywords": [],
       "name": "Jobs",
       "searchableFields": {
         "builtin.entityType": {
@@ -116,9 +112,8 @@
       "entityTypes": [
         "restaurant"
       ],
-      "keywords": [],
       "name": "Restaurants",
-      "savedSearchId": "98747710",
+      "savedSearchId": "112002255",
       "searchableFields": {
         "builtin.entityType": {
           "nlpFilter": true
@@ -155,17 +150,11 @@
       "Events",
       "Do you sell gift cards?",
       "Community stories",
-      "Open job positions on restaurant team"
+      "Open jobs"
     ]
   },
   "synonyms": {
     "oneWay": [
-      {
-        "phrase": "location",
-        "synonyms": [
-          "restaurant"
-        ]
-      },
       {
         "phrase": "nest",
         "synonyms": [
