@@ -1,5 +1,5 @@
 {
-  "$id": "Turtlehead_Tacos_Answers",
+  "$id": "Turtlehead-Tacos-Answers",
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
   "domain": "answers-domain",
   "features": [],
@@ -13,7 +13,7 @@
   },
   "repoConfig": {
     "targetRepoName": "answers-hitchhiker-training.turtleheadtacos-${{businessId}}.com",
-    "templateRepo": "github.com/big-ol-sandbox/answers-hitchhiker-training.turtleheadtacos-ans324.com"
+    "templateRepo": "github.com/big-ol-sandbox/answers-hitchhiker-training.turtleheadtacos-ANS324.com"
   },
   "siteName": "Turtlehead Tacos Answers"
-}
+} 

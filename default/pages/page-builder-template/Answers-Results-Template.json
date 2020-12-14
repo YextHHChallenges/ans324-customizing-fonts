@@ -1,5 +1,5 @@
 {
-  "$id": "Answers_Results_Template",
+  "$id": "Answers-Results-Template",
   "$schema": "https://schema.yext.com/config/pages/page-builder-template/v1",
   "EntityTypeName": "",
   "PageSetConfig": {
@@ -243,7 +243,7 @@
               "ExternalEntityId": "",
               "InputType": "CONSTANT",
               "Sink": "html",
-              "StringValue": "\u003cdiv id\u003d\"answers-container\"\u003e\u003c/div\u003e\n\u003cscript src\u003d\"https://answers-turtleheadtacos-2494181.landingpagessbx.yextengtest.com/iframe.js\"\u003e"
+              "StringValue": "\u003cdiv id\u003d\"answers-container\"\u003e\u003c/div\u003e\n\u003cscript src\u003d\"https://answers-turtleheadtacos-${{businessId}}.landingpagessbx.yextengtest.com/iframe.js\"\u003e"
             }
           ],
           "DefaultScss": "",
